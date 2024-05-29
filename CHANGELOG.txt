@@ -1,5 +1,5 @@
-20.10.2023 Wersja 0.1: Rozpoczecie pracy nad projektem
-20.12.2023 Wersja 0.2: Umieszczenie komponentow na platoformie 
-27.12.2023 Wersja 0.3: Ukonczenie implementacji projektu na plytce stykowej
-09.02.2024 Wersja 0.4: Zlutowanie ze soba komponentow
-13.02.2024 Wersja 1.0: Ostateczna wersja projektu
+(20.10.2023) Version 0.1: Project work initiation
+(20.12.2023) Version 0.2: Placement of components on the platform
+(27.12.2023) Version 0.3: Completion of project implementation on the breadboard
+(09.02.2024) Version 0.4: Soldering the components together
+(13.02.2024) Version 1.0: Final version of the project
